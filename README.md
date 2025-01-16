@@ -22,9 +22,18 @@ Les données des indicateurs seront exploitées selon différents filtres, notam
 - La quantité de produits transportée (cubage ou tonnage).
 - La possibilité de choisir un nombre N pour afficher les N conducteurs les plus performants.
 
-
+# Quelques demonstrations du travail:
+- Je vous joins le fichier Power BI si jamias ça vous inspire d'en savoir plus: voir le fichier Tableaux de bords.pbix ci-joint.
+- Voyons quelque analyse du Tableau:
 
 ![image](https://github.com/Hadad-Ahmed-Ali/Tableaux-des-bord/blob/main/1.png)
+- Dans le premier graphique, on a filtré les sites de réception et la quantité en tonnage pour visualiser cette quantité selon les différents sites de réception. Aucune date n’a été sélectionnée sur le filtre "Choisir la date de l’opération", ce qui signifie que nous regardons l’ensemble de la période. Cela permet de savoir si la quantité de produit réceptionnée est du type Concassé ou Boue.
+
+Par exemple, nous voyons que le site d’**Adounko Nord** a reçu **5 016 tonnes de Concassé**, et le site **Ouèssè SGDS_GN** a reçu **1 083 tonnes de Boue**. Sur toute
+la période, la **quantité totale de produits expédiés/réceptionnés en tonnage** est de **12 823,12 tonnes**.
+- Dans le deuxième graphique, aucune date n’a non plus été sélectionnée, donc nous regardons l’ensemble de la période. Il montre que les **camions de l’entreprise** ont effectué **1 089 voyages**, soit 70,03 % des voyages, contre **466 voyages** (29,97 %) effectués par **les camions loués**.
+- Dans le troisième graphique, aucune date n’a été sélectionnée, donc nous sommes toujours sur l’ensemble de la période. Nous avons appliqué un filtre **"Top N conducteurs avec plus de voyages"** pour voir les **10 conducteurs** ayant effectué le plus de voyages sur toute la période. On peut voir que le premier conducteur est **ZANNOU JOEL**, avec **72 voyages** effectués.
+- Dans le quatrième graphique, pareillement, aucune date n’a été sélectionnée, et nous visualisons le nombre de voyages reçus pour chaque site de réception. Par exemple, le site **GER Ouèdo** a reçu le plus grand nombre de voyages, avec **531 voyages**, sur toute la période.
 
 ![image](https://github.com/Hadad-Ahmed-Ali/Tableaux-des-bord/blob/main/4.png)
 
