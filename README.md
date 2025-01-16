@@ -28,7 +28,6 @@ Les données des indicateurs seront exploitées selon différents filtres, notam
 
 ![image](https://github.com/Hadad-Ahmed-Ali/Tableaux-des-bord/blob/main/1.png)
 - Dans le premier graphique, on a filtré les sites de réception et la quantité en tonnage pour visualiser cette quantité selon les différents sites de réception. Aucune date n’a été sélectionnée sur le filtre "Choisir la date de l’opération", ce qui signifie que nous regardons l’ensemble de la période. Cela permet de savoir si la quantité de produit réceptionnée est du type Concassé ou Boue.
-
 Par exemple, nous voyons que le site d’**Adounko Nord** a reçu **5 016 tonnes de Concassé**, et le site **Ouèssè SGDS_GN** a reçu **1 083 tonnes de Boue**. Sur toute
 la période, la **quantité totale de produits expédiés/réceptionnés en tonnage** est de **12 823,12 tonnes**.
 - Dans le deuxième graphique, aucune date n’a non plus été sélectionnée, donc nous regardons l’ensemble de la période. Il montre que les **camions de l’entreprise** ont effectué **1 089 voyages**, soit 70,03 % des voyages, contre **466 voyages** (29,97 %) effectués par **les camions loués**.
