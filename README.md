@@ -1,7 +1,14 @@
 # Contexte :
+STRACA SA, est une société créée en 2004 et qui intervient dans les domaines du transport,
+de la logistique et du commerce. De façon spécifique, la société intervient dans le transport
+d’agrégats (sable gravier, concassés…) et la location de véhicules (légers et poids lourds).
+Les agrégats sont chargés des sites d’expéditions (carrière, bord de mer, zone
+marécageuses…) et sont convoyés vers les sites de réception (chantier de construction de
+routes) pour différents clients. Ces clients opèrent notamment dans le domaine des travaux
+publics (construction d’infrastructures routières, d’aménagement du cadre de vie).
 
-- C'est projet académique basé sur les données de l'entreprise béninois **STRACA**.
-- l'objectifs est de Mettre en place un tableau de bord permettant le suivi et l’analyse des performances de l'entreprise.
+- C'est un projet académique basé sur les données de l'entreprise **STRACA** au bénin.
+- L'objectif est de mettre en place un tableau de bord permettant le suivi et l’analyse des performances de l'entreprise.
   
 # Outil utilisé: Power BI
 
