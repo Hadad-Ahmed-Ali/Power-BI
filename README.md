@@ -7,7 +7,11 @@ marécageuses…) et sont convoyés vers les sites de réception (chantier de co
 routes) pour différents clients. Ces clients opèrent notamment dans le domaine des travaux
 publics (construction d’infrastructures routières, d’aménagement du cadre de vie).
 
-- C'est un projet académique dont l'objectif est de mettre en place un tableau de bord permettant le suivi et l’analyse des performances de l'entreprise.
+# Note:
+
+Ce projet académique vise à mettre en place un tableau de bord interactif permettant de suivre et d'analyser les performances de l'entreprise.
+
+# Outil utilisé: Power BI
 
 # Objectif: 
 
@@ -49,5 +53,3 @@ Toujours dans le même principe d’analyse, cette fois nous avons choisi une da
 - Les **camions de l’entreprise** ont effectué **112 voyages**, contre **15 voyages** effectués par les **camions privés** (graphique 2).
 - Le troisième graphique montre les **10 conducteurs** ayant effectué le plus de voyages, avec en **première position ZANNOU JOEL** qui a effectué, **46 voyages** ce jour-là.
 - En ce jour-là, trois sites ont eu des expéditions de produits : le site **Carrière SATOM, Industries Agonsoudja et PK10**, le site **Carrière SATOM** ayant eu le plus grand nombre d’opérations, avec **78 voyages** effectués.
-
-# Outil utilisé: Power BI
