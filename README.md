@@ -31,7 +31,7 @@ Les données des indicateurs seront exploitées selon différents filtres, notam
 - La possibilité de choisir un nombre N pour afficher les N conducteurs les plus performants.
 
 # Quelques demonstrations du travail:
-- Je vous joins le fichier Power BI si jamias ça vous inspire d'en savoir plus: voir le fichier Tableaux de bords.pbix ci-joint.
+- Je vous joins le fichier Power BI si jamais ça vous inspire d'en savoir plus: voir le fichier Tableaux de bords.pbix ci-joint.
 - Voyons quelque analyse du Tableau:
 
 ![image](https://github.com/Hadad-Ahmed-Ali/Tableaux-des-bord/blob/main/1.png)
